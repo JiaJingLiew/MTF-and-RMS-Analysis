@@ -23,4 +23,3 @@
 - **Image Processing**: OpenCV, Pillow
 - **Visualization**: Matplotlib, Plotly
 
-## 📂 Project Structure
